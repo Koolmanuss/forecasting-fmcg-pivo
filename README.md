@@ -49,6 +49,6 @@
 
 ## 📬 Контакты
 
-Автор: **Иван Шереметев**  
-Email: `ivan.sheremetev@hse.ru`  
+Автор: **Иван Шереметевский**  
+
 GitHub: [@Koolmanuss](https://github.com/Koolmanuss)
